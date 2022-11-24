@@ -1,0 +1,25 @@
+{
+    "DeDev": {
+      "tenderWithAttachment": "279336@test.com",
+      "tenderWithoutAttachment": "12345678"
+      
+    },
+    "UkDev": {
+      "sampleTender": "9b2a1885-2fcf-4257-b764-a5d7a900c085",
+      "tenderWithoutAttachment": "12345678",
+      "sampleRegion":"6899",
+      "tenderWithAttachment": "d0911910-a175-11e3-bd6b-002655ffd6c8",
+      "sampleSector":"4273"
+      
+    },
+    "UkTestasdasda": {
+      "tenderWithoutAttachment": "08c50d27-e6ab-4a0a-b040-230dfb5ef0ac",
+      "tenderWithContractor": "30b507b0-800d-4705-b847-1fae7dd6e638",
+      "tenderWithoutContractor": "429c2077-914e-45a4-8071-c5c5559fa13b",
+      "sampleRegion":"6899",
+      "addTenderUrl":"https://test:ts3@dev-ariadne.infodienst-ausschreibungen.de/admin/tenderViewEdit/createTender/47/?userCountry=UK6899",
+      "sampleTender": "238c6a63-6e0e-4929-8c10-b78738d496ea"
+      
+    }
+    
+  }

@@ -1,0 +1,23 @@
+{
+  
+  "DeDev": {
+    "username": "279336@test.com",
+    "password": "12345678"
+  },
+  "UkDev": {
+    "username": "279336@test.com",
+    "password": "12345678"
+  },
+  "UkTest": {
+    "username": "621082@test.com",
+    "password": "123456"
+  },
+  "UkTest2": {
+    "username": "596958@test.com",
+    "password": "123456"
+  },
+  "testAriadne": {
+    "username": "hajdin",
+    "password": "hajdin999"
+  }
+}
